@@ -21,7 +21,7 @@ If you consider yourself bad at math, or if you "hated math" in school, then the
 
 #### Algebra
 
-- [ ] [Khan - Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra)
+- [X] [Khan - Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra)
 - [ ] [Khan - Algebra I](https://www.khanacademy.org/mission/algebra)
 - [ ] [Khan - Algebra II](https://www.khanacademy.org/mission/algebra2)
 
